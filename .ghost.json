@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://standupcode-admin.herokuapp.com",
+    "apiUrl": "https://standupcode-admin.herokuapp.com/",
     "contentApiKey": "133a9508d00f2cc0977762b8ba"
   },
   "production": {
-    "apiUrl": "https://standupcode-admin.herokuapp.com,
+    "apiUrl": "https://standupcode-admin.herokuapp.com/,
     "contentApiKey": "133a9508d00f2cc0977762b8ba"
   }
 }
