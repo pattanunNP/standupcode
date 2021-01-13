@@ -24,7 +24,7 @@ try {
 
 if (
     process.env.NODE_ENV === `production` &&
-    config.siteUrl === `https://standupcode-admin.herokuapp.com` &&
+    config.siteUrl === `http://165.22.250.201` &&
     !process.env.SITEURL
 ) {
     throw new Error(
